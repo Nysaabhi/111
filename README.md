@@ -3788,7 +3788,7 @@ function showChatSupport(category) {
       position: sticky;
       top: 0;
       background: rgba(26, 26, 31, 0.95);
-      font-size: 12px;
+      font-size: 11px;
       padding: 20px;
       display: flex;
       align-items: center;
